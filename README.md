@@ -18,6 +18,6 @@
 [LMCO]: https://www.lockheedmartin.com/
 [ASU]: https://asuonline.asu.edu/online-degree-programs/graduate/cybersecurity-mcs/
 [GitHub]: https://www.github.com/ChristopherBilg/
-[Website]: https://www.christopherbilg.github.io/
+[Website]: https://christopherbilg.github.io/
 [LinkedIn]: https://www.linkedin.com/in/christopher-bilger/
 [Email]: mailto:christopherbilg@gmail.com
