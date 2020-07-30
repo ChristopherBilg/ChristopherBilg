@@ -1,7 +1,5 @@
 ## Hi there, I'm Chris Bilger 👋
 
----
-
 ### I'm a huge FOSS advocate and a student at heart!
 - 🔭 I’m currently working on projects at [Lockheed Martin][LMCO]
 - 🌱 I’m currently learning computer science and advanced cyber-security at [Arizona State University][ASU]
