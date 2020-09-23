@@ -3,7 +3,7 @@
 ### I'm a huge FOSS advocate and a student at heart!
 - 🔭 I’m currently working on projects at [Lockheed Martin][LMCO]
 - 🌱 I’m currently in graduate school for computer science at [Georgia Institute of Technology][GATech]
-- 👯 I’m not currently looking to collaborate on FOSS projects, as I am working on a private business endeavor
+- 👯 I’m **not** currently looking to collaborate on FOSS projects, as I am working on a private business endeavor
 - 📫 How to reach me: [Github][GitHub] | [Website][Website] | [LinkedIn][LinkedIn] | [Email][Email]
 
 ---
