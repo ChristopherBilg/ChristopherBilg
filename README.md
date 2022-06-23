@@ -2,6 +2,8 @@
 
 ### I'm a huge FOSS advocate and a student at heart!
 - 🔭 I’m working on projects at [Lockheed Martin][LMCO]
+- 🌱 I’m learning about programming language and compiler design
+- 🤝 I'm looking to collaborate on my programming language [crisp][crisp]
 - 🏫 Learn more about me on my [website / portfolio][Portfolio]
 - 💬 Ask me about anything (emails will result in the fastest responses)!
 - 📫 How to reach me: [Github][GitHub] | [LinkedIn][LinkedIn] | [Email][Email]
@@ -29,3 +31,4 @@
 [Portfolio]: https://chrisbilger.com/
 [LinkedIn]: https://linkedin.com/in/christopher-bilger/
 [Email]: mailto:christopherbilg@gmail.com
+[crisp]: https://github.com/ChristopherBilg/crisp
