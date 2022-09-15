@@ -2,7 +2,7 @@
 
 ### I'm a huge FOSS advocate and a student at heart!
 - 🏫 Learn more about me on my [website / portfolio][Portfolio]
-- 🧑‍🎓 I'm currently a Ph.D. student at [NCU][NCU] for Computer Science (CS)
+- 🧑‍🎓 I'm currently a Ph.D. student at [NCU][NCU] for Computer Science
 - 💬 Ask me about anything ([emails][Email] will result in the fastest responses)!
 - 📫 How to reach me: [Github][GitHub] | [LinkedIn][LinkedIn] | [Email][Email]
 
