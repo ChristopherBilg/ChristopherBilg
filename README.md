@@ -5,10 +5,6 @@
 - 💬 Ask me about anything ([emails][Email] will result in the fastest responses)!
 - 📫 How to reach me: [Github][GitHub] | [LinkedIn][LinkedIn] | [Email][Email]
 
-Apart from my personal GitHub repositories that I maintain, I am also a maintainer on some other projects such as:
-
-- [taizen](https://github.com/nerdypepper/taizen/)
-
 ---
 
 <p align="center">
