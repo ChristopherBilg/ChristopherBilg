@@ -20,7 +20,7 @@ I am also a maintainer for some public projects, such as [MVP.css][MVP.css] and 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChristopherBilg&theme=transparent" />
   </a>
   <a href="https://github.com/ChristopherBilg">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherBilg&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherBilg&langs_count=10&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 
